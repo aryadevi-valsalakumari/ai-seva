@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Use | Ai-SEVA</title>
+<meta name="description" content="Terms for using the Ai-SEVA website.">
+<meta name="robots" content="index,follow">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23071a33'/%3E%3Ctext x='32' y='45' font-size='38' font-weight='800' text-anchor='middle' fill='%23f5b83d' font-family='Arial'%3EA%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site">
+  <div class="container nav">
+    <a class="brand" href="index.html"><span>Ai-<span class="mark">SEVA</span></span></a>
+    <a class="btn btn-ghost" href="index.html" style="padding:8px 16px;font-size:.9rem">Back to home</a>
+  </div>
+</header>
+
+<main class="container legal">
+  <h1>Terms of Use</h1>
+  <p class="updated">Last updated: 14 November 2026</p>
+
+  <p>These terms apply to your use of this website, ai-seva.sucselix.com, operated by Ai-SEVA (Artificial Intelligence for Social Empowerment Vision Associates, Kozhikode, Kerala, India). By using the site you agree to them.</p>
+
+  <h2>1. About this website</h2>
+  <p>The site describes our services and lets you contact us. Nothing on it is a binding offer. Paid services are provided only under a separate written agreement, order form or statement of work signed by both parties, which prevails over these terms.</p>
+
+  <h2>2. Quotes and pricing</h2>
+  <p>We do not publish fixed prices. Quotes are given in writing after the free audit and apply only for the period stated in the quote.</p>
+
+  <h2>3. Free AI audit</h2>
+  <p>The free 15-minute AI audit is an introductory conversation. It gives general guidance based on what you tell us and does not create any obligation on either side.</p>
+
+  <h2>4. Demo assistant and examples</h2>
+  <p>The demo assistant uses prepared answers for illustration. Sample use cases on this site are illustrative examples, not client case studies, and do not guarantee any specific result.</p>
+
+  <h2>5. Acceptable use</h2>
